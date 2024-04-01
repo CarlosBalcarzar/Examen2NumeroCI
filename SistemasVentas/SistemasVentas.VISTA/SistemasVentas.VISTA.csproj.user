@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="consulta10\consulta10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="consulta1\consulta1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="consulta2\consulta2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="consulta3\consulta3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="consulta4\consulta4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="consulta5\consulta5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="consulta6\consulta6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="consulta7\consulta7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="consulta8\consulta8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="consulta9\consulta9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
